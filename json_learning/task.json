@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Task": "CS50",
+    "Date(YYYY/MM/DD)": "2025-04-09",
+    "Completed?": true
+  },
+  {
+    "Id": 2,
+    "Task": "CS50-0",
+    "Date(YYYY/MM/DD)": "2025-04-10",
+    "Completed?": true
+  },
+  {
+    "Id": 3,
+    "Task": "Ordering from Nyakka",
+    "Date(YYYY/MM/DD)": "2025-04-10",
+    "Completed?": true
+  },
+  {
+    "Id": 4,
+    "Task": "Added this is to GitHub",
+    "Date(YYYY/MM/DD)": "2025-04-11",
+    "Completed?": true
+  }
+]
